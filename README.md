@@ -18,7 +18,7 @@ The backend is hosted on **Back4App**.
 
 ## Tech Stack
 
-* **Java 17**
+* **Java 25**
 * **Spring Boot** (Web, JPA, Security)
 * **JWT (JSON Web Token)** for authentication
 * **PostgreSQL (Neon DB)** as database
@@ -31,7 +31,7 @@ The backend is hosted on **Back4App**.
 
 ### Prerequisites
 
-* Java 17+
+* Java 25
 * Maven
 * PostgreSQL (local or Neon DB)
 
